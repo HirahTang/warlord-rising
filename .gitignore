@@ -1,0 +1,6 @@
+.godot/
+__pycache__/
+*.pyc
+.DS_Store
+export_presets.cfg
+build/

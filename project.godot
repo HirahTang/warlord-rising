@@ -1,0 +1,26 @@
+; Engine configuration file.
+config_version=5
+
+[application]
+
+config/name="乱世从戎"
+run/main_scene="res://scenes/Main.tscn"
+config/features=PackedStringArray("4.7", "Forward Plus")
+
+[autoload]
+
+Lang="*res://scripts/Lang.gd"
+DB="*res://scripts/Data.gd"
+Game="*res://scripts/Game.gd"
+Sfx="*res://scripts/Audio.gd"
+
+[display]
+
+window/size/viewport_width=1600
+window/size/viewport_height=900
+window/stretch/mode="canvas_items"
+window/stretch/aspect="keep"
+
+[rendering]
+
+anti_aliasing/quality/msaa_3d=2
