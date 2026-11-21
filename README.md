@@ -41,17 +41,26 @@ On macOS you can also double-click `乱世从戎.command`.
 
 ## Controls · 操作
 
-| | Keyboard / mouse |
-|---|---|
-| Move · 移动 | WASD |
-| Attack / heavy · 攻击 / 重击 | LMB / F |
-| Block · 格挡 | RMB |
-| Dodge · 闪避 | Space |
-| Switch weapon · 换武器 | Q |
-| Mount / dismount · 上下马 | R |
-| Retinue orders · 亲兵号令 | 1 charge · 2 follow · 3 hold |
-| Music · 音乐 | M |
-| Pause / help · 暂停 | Esc |
+| | Keyboard / mouse · 键鼠 | Gamepad (Joy-Con / Switch layout) · 手柄 |
+|---|---|---|
+| Move · 移动 | WASD | Left stick · 左摇杆 |
+| Camera · 视角 | Mouse · 鼠标 | Right stick · 右摇杆 |
+| Attack · 攻击 | LMB · 左键 | ZR / R |
+| Heavy attack · 重击 | F / MMB · 中键 | Y |
+| Block · 格挡 | RMB · 右键 | ZL / L |
+| Dodge · 闪避 | Space | B / A |
+| Sprint · 疾跑 | Shift | Click left stick · 按下左摇杆 |
+| Switch weapon · 换兵器 | Q | X |
+| Mount / dismount · 上下马 | R | − |
+| Retinue orders · 亲兵号令 | 1 charge · 2 follow · 3 hold | D-pad · 十字键 |
+| Zoom · 远近 | Wheel · 滚轮 | — |
+| Music · 音乐 | M | — |
+| Pause / help · 暂停 | Esc | + |
+
+Menus on the strategy map can be navigated with the D-pad or stick as well.
+The in-game pause screen shows the full list, including combos.
+
+地图界面的菜单同样可以用十字键或摇杆操作；完整键位和连招说明见游戏内暂停界面。
 
 ## Development · 开发
 
